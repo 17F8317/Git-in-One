@@ -1,1 +1,4 @@
 mylogs.log
+# ^ to ignore all mylogs.log files
+# *.log to ignore all .log files
+# /mylogs.log to only ignore it from root directory
